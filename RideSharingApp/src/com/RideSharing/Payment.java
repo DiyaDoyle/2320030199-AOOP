@@ -2,6 +2,6 @@ package com.RideSharing;
 
 public interface Payment {
 
-	 void pay(double amount);
+	public void pay(double amount);
 
 }
